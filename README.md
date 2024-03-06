@@ -17,7 +17,7 @@
 - Clone this repository:
 
 ```bash
-$ git clone https://github.com/alfatetan/qa_automation_sample_steam.git && cd qa_automation_sample_steam
+$ git clone https://github.com/alfatetan/qa_automation_sample_bestbuy.git && cd qa_automation_sample_bestbuy
 ```
 
 - Install Python virtual environment and activate it
